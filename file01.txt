@@ -4,3 +4,5 @@ fontes
 README.md
 relatorios
 scripts
+
+alterado

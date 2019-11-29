@@ -1,0 +1,10 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 26E2-FFB0
+
+ Pasta de C:\temp\projetos\aulagit\scripts
+
+29/11/2019  17:01    <DIR>          .
+29/11/2019  17:01    <DIR>          ..
+29/11/2019  17:01                 0 arqdir.txt
+               1 arquivo(s)              0 bytes
+               2 pasta(s)   59.507.339.264 bytes dispon°veis
