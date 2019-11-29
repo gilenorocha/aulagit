@@ -2,3 +2,5 @@ Arquivo 1
 Teste de git
 Esternocleudomastoideo
 Alterei novamente
+
+Merge local
