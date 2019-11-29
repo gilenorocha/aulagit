@@ -1,0 +1,5 @@
+Arquivo1.txt
+fontes
+README.md
+relatorios
+scripts

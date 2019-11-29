@@ -1,0 +1,16 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 26E2-FFB0
+
+ Pasta de C:\temp\projetos\aulagit
+
+29/11/2019  16:57    <DIR>          .
+29/11/2019  16:57    <DIR>          ..
+29/11/2019  16:42                47 Arquivo1.txt
+29/11/2019  16:56                66 file01.txt
+29/11/2019  16:57                 0 file02.txt
+29/11/2019  16:40    <DIR>          fontes
+29/11/2019  16:39                28 README.md
+29/11/2019  16:54    <DIR>          relatorios
+29/11/2019  16:46    <DIR>          scripts
+               4 arquivo(s)            141 bytes
+               5 pasta(s)   59.507.388.416 bytes dispon°veis
