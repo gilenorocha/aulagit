@@ -1,4 +1,1 @@
-Arquivo 1
-Teste de git
-Esternocleudomastoideo
-Alterei novamente
+master
